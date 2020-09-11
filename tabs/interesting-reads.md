@@ -10,6 +10,8 @@ type: interesting-reads
 ---
 <ul>
 <li><a href="https://www.scientificamerican.com/podcast/episode/your-brain-free-will-and-the-law/"> Your Brain, Free Will and the Law</a></li>
+<li><a href="http://www.offconvex.org/2016/03/07/evolution-markov-chains/">Evolution, Dynamical Systems and Markov Chains</a></li>
+<li><a href="https://www.computationsociety.org/2020/07/27/max-entropy/">Debiasing data: An efficient framework using the principle of maximum entropy</a></li>
 <li><a href="https://hbr.org/2019/09/the-dangers-of-categorical-thinking#:~:text=Categorical%20thinking%20encourages%20you%20to,decisions%2C%20and%20draw%20inaccurate%20conclusions."> The Dangers of Categorical Thinking</a></li>
 <li><a href="https://www.nature.com/collections/fajcgfjdgh"> 10 extraordinary Nature papers</a></li>
 <li><a href="http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/">Deep Learning, NLP, and Representations</a></li>
