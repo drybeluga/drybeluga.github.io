@@ -1,0 +1,59 @@
+I"�<p>In the United States, in the 1950s and 1960s, cigarette brands were frequently sponsors of television programs. This changed in 1970, when the <em>The Public Health Cigarette Smoking Act</em> bill was introduced in congress,  after the 1964 report by the Surgeon General found that lung cancer and chronic bronchitis are causally related to cigarette smoking. Remarkly, the two major tobacco brands, which oligopolized the US Cigarette brands backed this bill, and after President Nixon signed  the bill into law, during the first year profits (on average) for cigarette companies increased by $91 million.</p>
+
+<p>The rationale behind the Cigarette companies backing the bill can be found exploring standard problem in game theory called the prisoner’s dilemma. The prisoner’s dilemma has been called the <em>E. coli</em> of social psychology, and it has been used widely to research various topics such as oligopolistic competition and collective action to produce a collective good.[1]</p>
+
+<h2 id="prisoners-dilemma">Prisoner’s dilemma</h2>
+
+<p>Two members of a criminal gang are arrested and imprisoned. Each prisoner is in solitary confinement with no means of communicating with the other. The prosecutors lack sufficient evidence to convict the pair on the principal charge, but they have enough to convict both on a lesser charge. Simultaneously, the prosecutors offer each prisoner a bargain. Each prisoner is given the opportunity either to betray the other by testifying that the other committed the crime, or to cooperate with the other by remaining silent. The possible outcomes are:</p>
+
+<ol>
+  <li>If A and B each betray the other, each of them serves two years in prison</li>
+  <li>If A betrays B but B remains silent, A will be set free and B will serve three years in prison</li>
+  <li>If A remains silent but B betrays A, A will serve three years in prison and B will be set free</li>
+  <li>If A and B both remain silent, both of them will serve only one year in prison (on the lesser charge).</li>
+</ol>
+
+<p>The generalized form for the above game is shown below</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left"> </th>
+      <th style="text-align: left">Cooperate</th>
+      <th style="text-align: right">Defect</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left"><strong>Cooperate</strong></td>
+      <td style="text-align: left">R, R</td>
+      <td style="text-align: right">S, T</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><strong>Defect</strong></td>
+      <td style="text-align: left">T, S</td>
+      <td style="text-align: right">P, P</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Where,</p>
+
+<ul>
+  <li>R is the payoff for cooperation</li>
+  <li>T is the temptation payoff</li>
+  <li>S is the sucker’s payoff</li>
+  <li>P is the punishment payoff</li>
+</ul>
+
+<p>and,</p>
+
+<p><em>T</em> &gt; <em>R</em> &gt; <em>P</em> &gt; <em>S</em></p>
+
+<p>If both the players are perfectly rational (their sole intent is to maximize the payoff for one self) and there is no opportunity for punishment or reward outside of the game, <strong>the dominant strategy (Nash equilibrium) is to always defect</strong>, regardless of what the other player chooses. This is backed by the reasoning that  B will either cooperate or defect. If B cooperates, A should defect, because going free is better than serving 1 year. If B defects, A should also defect, because serving 2 years is better than serving 3. So either way, A should defect. Parallel reasoning will show that B should defect.</p>
+
+<p>Interactions between organisms which have similar payoffs as the prisoner’s dilemma are ubiquitous in the real world, involving all sorts of organisms ranging from bacteria to us. The classical game, however does not model that organisms typically have multiple interactions with each other, and retain information about their opponents behaviour in the past and can switch strategies based on previous interactions.</p>
+
+<hr />
+
+:ET
