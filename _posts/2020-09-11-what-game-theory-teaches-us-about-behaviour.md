@@ -34,10 +34,10 @@ The generalized form for the above game is shown using the payoff matrix below
 
 Where,
 
-- R is the payoff for cooperation
-- T is the temptation payoff
-- S is the sucker's payoff
-- P is the punishment payoff
+- R is the payoff for cooperation - 1 year in prison
+- T is the temptation payoff - Being set free
+- S is the sucker's payoff - 3 years in prison
+- P is the punishment payoff - 2 years in prison
 
 and the tuple _(x,y)_ represents the payoff's received by player 1 and 2 respectively. For example, if player 1 cooperates, where as player 2 defects, the payoff for the players is represented by the value in the top right cell, _(S, T)_ i.e. player 1 receives the sucker's payoff _S_, and player 2 gets the temptation payoff _T_. To be prisoner's dilemma game in the strong sense, the following condition also must hold for the payoffs:
 
