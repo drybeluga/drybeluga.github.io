@@ -8,7 +8,7 @@ title: About me
 # MIT License
 ---
 
-I like reading and writing about how humans and machines can make better decisions under uncertainty. If you would like to chat, feel free to write me at adrish ‘dot’ banerjee24 ‘at’ gmail ‘dot’ com.
+I like reading and writing about how humans and machines can make better decisions under uncertainty. If you would like to chat, feel free to write to me at adrish ‘dot’ banerjee24 ‘at’ gmail ‘dot’ com.
 
 ## Research
 
