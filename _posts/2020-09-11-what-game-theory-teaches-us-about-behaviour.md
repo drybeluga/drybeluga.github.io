@@ -1,7 +1,7 @@
 ---
 title: What game theory teaches us about behavior
 author: Adrish Banerjee
-date: 2020-09-12 11:33:00 +0530
+date: 2020-09-13 01:33:00 +0530
 categories: [Game Theory, Behaviour]
 tags: [behaviour]
 math: true
