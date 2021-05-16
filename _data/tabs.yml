@@ -6,13 +6,8 @@
 
 
 -
-  name: Home
+  name: "Home"
   icon: "fas fa-home"
--
-  name: "Interesting Reads"
-  icon: "fas fa-tags"
-  path: tabs
-  url: interesting-reads
 -
   name: "Archives"
   path: tabs
