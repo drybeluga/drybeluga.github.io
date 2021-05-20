@@ -14,7 +14,7 @@
   url: archives
   icon: "fas fa-archive"
 -
-  name: "About Me"
+  name: "About"
   icon: "fas fa-info"
   path: tabs
   url: about-me
