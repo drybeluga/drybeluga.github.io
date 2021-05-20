@@ -1,5 +1,5 @@
 ---
-title: About me
+title: About 
 
 # The About page
 # v2.0
@@ -8,4 +8,4 @@ title: About me
 # MIT License
 ---
 
-I like reading and writing about how humans and machines can make better decisions under uncertainty. If you would like to chat, feel free to write to me at adrish ‘dot’ banerjee24 ‘at’ gmail ‘dot’ com.
+This is where I dump my thoughts on days when I'm in the creative spirit. If you would like to chat, feel free to write to me at adrish ‘dot’ banerjee24 ‘at’ gmail ‘dot’ com.
